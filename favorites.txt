@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Chole Bhature
 Paneer Naan
 Masala Dosa
+=======
+Karwaan
+Life
+Avenger
+>>>>>>> movies
